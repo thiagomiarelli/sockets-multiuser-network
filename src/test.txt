@@ -1,0 +1,2 @@
+send all "cheguei porra"
+close connection
